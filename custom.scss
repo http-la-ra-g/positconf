@@ -1,0 +1,81 @@
+/*-- scss:defaults --*/
+// Cores principais
+$ultra-violet: #6C6EA0;
+$night: #0A0F0D;
+$french-gray: #C1CAD6;
+$white: #FFFFFF;
+
+// Definições de variáveis do tema
+$primary: $ultra-violet;
+$secondary: $french-gray;
+$body-bg: $white;
+$body-color: $night;
+$navbar-bg: $night;
+$navbar-color: $white;
+$link-color: $ultra-violet;
+
+/*-- scss:rules --*/
+.project-grid {
+  display: grid;
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+.project-card {
+  background: $white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 10px rgba($night, 0.1);
+  transition: all 0.3s ease;
+  border: 1px solid $french-gray;
+}
+
+.project-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 16px rgba($night, 0.15);
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.tag {
+  background: $french-gray;
+  padding: 0.2rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  color: $night;
+}
+
+.difficulty-badge {
+  display: inline-block;
+  padding: 0.2rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+  background: $french-gray;
+  color: $night;
+}
+
+.time-estimate {
+  font-size: 0.9rem;
+  color: #666;
+  margin-left: 0.5rem;
+}
+
+.navbar {
+  border-bottom: 1px solid rgba($french-gray, 0.2);
+}
+
+.btn-primary {
+  background-color: $ultra-violet;
+  border: none;
+  color: $white;
+  
+  &:hover {
+    background-color: darken($ultra-violet, 10%);
+  }
+} 

@@ -1,0 +1,31 @@
+---
+title: "Bem-vindo ao meu site"
+page-layout: full
+---
+
+::: {.column-page}
+# Bem-vindo!
+
+::: {.lead}
+Olá! Seja bem-vindo ao meu portfólio de análise de dados e projetos em R. Aqui você encontrará diversos projetos desenvolvidos com Shiny, análises estatísticas e visualizações de dados.
+:::
+
+:::: {.grid}
+
+::: {.g-col-4}
+### [Sobre Mim](about.qmd)
+Conheça mais sobre minha formação, experiência e interesses.
+:::
+
+::: {.g-col-4}
+### [Projetos](projects.qmd)
+Explore meus projetos em R, incluindo aplicações Shiny e análises de dados.
+:::
+
+::::
+
+:::
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

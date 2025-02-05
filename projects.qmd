@@ -1,0 +1,59 @@
+---
+title: "Projetos"
+---
+
+::: {.column-page}
+
+# Meus Projetos
+
+::: {.project-grid .grid}
+
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![python](images/python-icon.png){.tag-icon} 
+<span class="tag">python</span>
+<span class="tag">loops</span>
+<span class="tag">for</span>
+<span class="tag">while</span>
+:::
+
+## Loops e Iterações em Python
+
+::: {.difficulty-badge}
+INICIANTE <span class="time-estimate">15 min</span>
+:::
+
+::: {.project-description}
+Aprenda a usar estruturas de repetição para automatizar tarefas repetitivas
+:::
+
+::: {.button-container}
+[COMEÇAR MÓDULO →](projects/loops-python.qmd){.btn .btn-primary}
+:::
+:::
+
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![python](images/python-icon.png){.tag-icon}
+<span class="tag">python</span>
+<span class="tag">operadores</span>
+<span class="tag">fundamentos</span>
+:::
+
+## Operadores em Python
+
+::: {.difficulty-badge}
+INICIANTE <span class="time-estimate">20 min</span>
+:::
+
+::: {.project-description}
+Aprenda sobre os diferentes tipos de operadores em Python e como utilizá-los
+:::
+
+::: {.button-container}
+[COMEÇAR MÓDULO →](projects/operadores-python.qmd){.btn .btn-primary}
+:::
+:::
+
+:::
+:::

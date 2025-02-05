@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Seu Nome"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Sobre
+      - href: projects.qmd
+        text: Projetos
+
+page-footer:
+  background: light
+  left: "© 2024 Seu Nome. Todos os direitos reservados."
+  right:
+    - icon: github
+      href: https://github.com/seu-usuario
+    - icon: linkedin
+      href: https://linkedin.com/in/seu-usuario
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+      dark: [darkly, custom.scss]
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-tools: true
+
+
+

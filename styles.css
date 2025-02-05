@@ -1,0 +1,98 @@
+/* css styles */
+
+/* Estilos gerais */
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  color: #0A0F0D;
+}
+
+/* Estilo dos títulos */
+h1, h2, h3 {
+  color: #0A0F0D;
+}
+
+.project-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #0A0F0D;
+}
+
+/* Estilo dos botões */
+.btn {
+  border-radius: 25px;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0.5rem 1.2rem;
+  transition: all 0.2s ease;
+}
+
+.btn-primary {
+  background-color: #6C6EA0;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #5a5c8a;
+  transform: translateY(-2px);
+}
+
+/* Descrição do projeto */
+.project-description {
+  color: #0A0F0D;
+  margin: 1rem 0;
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #6C6EA0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5a5c8a;
+}
+
+/* Navbar personalizada */
+.navbar {
+  background-color: #0A0F0D !important;
+}
+
+.navbar-brand, .nav-link {
+  color: #FFFFFF !important;
+}
+
+.nav-link:hover {
+  color: #C1CAD6 !important;
+}
+
+/* Footer */
+.footer {
+  background-color: #0A0F0D;
+  color: #FFFFFF;
+}
+
+/* Cards */
+.project-card {
+  border-color: #C1CAD6;
+}
+
+/* Tags */
+.tag {
+  background-color: #C1CAD6;
+  color: #0A0F0D;
+}
+
+/* Badges */
+.difficulty-badge {
+  background-color: #C1CAD6;
+  color: #0A0F0D;
+}
+
+/* Container para os botões */
+.button-container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
