@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bem-vindo ao meu site",
-    "section": "",
-    "text": "Bem-vindo!\n\nOlá! Seja bem-vindo ao meu portfólio de análise de dados e projetos em R. Aqui você encontrará diversos projetos desenvolvidos com Shiny, análises estatísticas e visualizações de dados.\n\n\n\nSobre Mim\nConheça mais sobre minha formação, experiência e interesses.\n\n\nProjetos\nExplore meus projetos em R, incluindo aplicações Shiny e análises de dados.\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Sobre Mim",
-    "section": "",
-    "text": "[Coloque aqui uma breve introdução sobre você]\n\n\n\n\n[Liste sua formação]\n\n\n\n\n\n[Liste suas experiências]\n\n\n\n\n\nGitHub\nLinkedIn\nTwitter\n\n\n\n\n✉️ seu_email@dominio.com"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projetos",
@@ -21,18 +7,25 @@
     "text": "python loops for while\n\n\n\n\nINICIANTE 15 min\n\n\nAprenda a usar estruturas de repetição para automatizar tarefas repetitivas\n\n\nCOMEÇAR MÓDULO →\n\n\n\n\n\n python operadores fundamentos\n\n\n\n\nINICIANTE 20 min\n\n\nAprenda sobre os diferentes tipos de operadores em Python e como utilizá-los\n\n\nCOMEÇAR MÓDULO →"
   },
   {
-    "objectID": "projects.html#projeto-1",
-    "href": "projects.html#projeto-1",
+    "objectID": "projects.html#loops-e-iterações-em-python",
+    "href": "projects.html#loops-e-iterações-em-python",
     "title": "Projetos",
     "section": "",
-    "text": "Link para o projeto\n\nDescrição breve do projeto\nTecnologias utilizadas\nRepositório GitHub"
+    "text": "INICIANTE 15 min\n\n\nAprenda a usar estruturas de repetição para automatizar tarefas repetitivas\n\n\nCOMEÇAR MÓDULO →"
   },
   {
-    "objectID": "projects.html#projeto-2",
-    "href": "projects.html#projeto-2",
+    "objectID": "projects.html#operadores-em-python",
+    "href": "projects.html#operadores-em-python",
     "title": "Projetos",
     "section": "",
-    "text": "Link para o projeto\n\nDescrição breve do projeto\nTecnologias utilizadas\nRepositório GitHub"
+    "text": "INICIANTE 20 min\n\n\nAprenda sobre os diferentes tipos de operadores em Python e como utilizá-los\n\n\nCOMEÇAR MÓDULO →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre Mim",
+    "section": "",
+    "text": "[Coloque aqui uma breve introdução sobre você]\n\n\n\n\n[Liste sua formação]\n\n\n\n\n\n[Liste suas experiências]\n\n\n\n\n\nGitHub\nLinkedIn\nTwitter\n\n\n\n\n✉️ seu_email@dominio.com"
   },
   {
     "objectID": "about.html#formação-acadêmica",
@@ -63,31 +56,10 @@
     "text": "✉️ seu_email@dominio.com"
   },
   {
-    "objectID": "projects.html#análise-de-dados-de-vendas",
-    "href": "projects.html#análise-de-dados-de-vendas",
-    "title": "Projetos",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bem-vindo ao meu site",
     "section": "",
-    "text": "Uma análise completa de dados de vendas usando R e tidyverse.\n\nTecnologias: R, tidyverse, ggplot2\nCategoria: Análise de Dados\n\nVer Projeto GitHub"
-  },
-  {
-    "objectID": "projects.html#dashboard-shiny",
-    "href": "projects.html#dashboard-shiny",
-    "title": "Projetos",
-    "section": "",
-    "text": "Dashboard interativo para visualização de dados financeiros.\n\nTecnologias: R, Shiny, plotly\nCategoria: Dashboard\n\nVer Projeto GitHub"
-  },
-  {
-    "objectID": "projects.html#loops-e-iterações-em-python",
-    "href": "projects.html#loops-e-iterações-em-python",
-    "title": "Projetos",
-    "section": "",
-    "text": "INICIANTE 15 min\n\n\nAprenda a usar estruturas de repetição para automatizar tarefas repetitivas\n\n\nCOMEÇAR MÓDULO →"
-  },
-  {
-    "objectID": "projects.html#operadores-em-python",
-    "href": "projects.html#operadores-em-python",
-    "title": "Projetos",
-    "section": "",
-    "text": "INICIANTE 20 min\n\n\nAprenda sobre os diferentes tipos de operadores em Python e como utilizá-los\n\n\nCOMEÇAR MÓDULO →"
+    "text": "Bem-vindo!\n\nOlá! Seja bem-vindo ao meu portfólio de análise de dados e projetos em R. Aqui você encontrará diversos projetos desenvolvidos com Shiny, análises estatísticas e visualizações de dados.\n\n\n\nSobre Mim\nConheça mais sobre minha formação, experiência e interesses.\n\n\nProjetos\nExplore meus projetos em R, incluindo aplicações Shiny e análises de dados.\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
