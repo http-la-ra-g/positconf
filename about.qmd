@@ -2,14 +2,68 @@
 title: "Sobre Mim"
 ---
 
-# Sobre Mim
+::: {.column-page}
+
+::: {.about-header}
+# Olá, eu sou a Lara! 👋
 
 ::: {.lead}
-[Coloque aqui uma breve introdução sobre você]
+Sou uma Engenheira Florestal apaixonada por dados e tecnologia, atualmente expandindo meus horizontes na interseção entre ciências florestais e estatística.
+:::
 :::
 
+::: {.grid}
+
+::: {.g-col-7}
+## Minha Trajetória
+
+Minha jornada começou na Engenharia Florestal, onde descobri minha paixão por análise de dados aplicada ao setor florestal. Atualmente, estou cursando mestrado em Ciências Florestais, com foco em análise de riscos financeiros associados ao cultivo de mogno africano, além de estar em processo de graduação em Estatística.
+
+Esta combinação única de formações me permite desenvolver uma perspectiva diferenciada na análise de dados florestais, unindo o conhecimento técnico do setor com metodologias estatísticas robustas.
+
+## Áreas de Interesse
+
+- 🌳 Manejo Florestal
+- 📊 Análise de Dados
+- 💹 Análise de Riscos Financeiros
+- 🔬 Pesquisa Acadêmica
+- 📱 Desenvolvimento de Aplicações Shiny
+:::
+
+::: {.g-col-5}
 ## Formação Acadêmica
-- [Liste sua formação]
+
+::: {.timeline}
+### Mestrado em Ciências Florestais
+Em andamento  
+Foco: Análise de riscos financeiros em plantios de mogno africano
+
+### Graduação em Estatística
+Em andamento  
+Aprofundamento em métodos estatísticos e análise de dados
+
+### Engenharia Florestal
+Concluído  
+Base sólida em ciências florestais e manejo sustentável
+:::
+
+## Habilidades Técnicas
+
+::: {.skills-grid}
+- R/RStudio
+- Shiny
+- Python
+- Git
+- Análise Estatística
+- Visualização de Dados
+- Inventário Florestal
+- Modelagem Matemática
+:::
+:::
+
+:::
+
+:::
 
 ## Experiência Profissional
 - [Liste suas experiências]

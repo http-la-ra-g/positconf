@@ -1,31 +1,45 @@
 ---
-title: "Bem-vindo ao meu site"
+title: "Lara Gualberto"
 page-layout: full
 ---
 
 ::: {.column-page}
-# Bem-vindo!
+
+::: {.hero-section}
+# Lara Gualberto {.hero-title}
 
 ::: {.lead}
-Olá! Seja bem-vindo ao meu portfólio de análise de dados e projetos em R. Aqui você encontrará diversos projetos desenvolvidos com Shiny, análises estatísticas e visualizações de dados.
+Engenheira Florestal, Mestranda em Ciências Florestais e graduanda em Estatística. Apaixonada por análise de dados e desenvolvimento de soluções em R e Python para o setor florestal.
 :::
 
+::: {.hero-buttons}
+[Ver Projetos](projects.qmd){.btn .btn-primary}
+[Sobre Mim](about.qmd){.btn .btn-secondary}
+[Currículo](cv.qmd){.btn .btn-secondary}
+:::
+:::
+
+::: {.content-section}
 :::: {.grid}
 
-::: {.g-col-4}
-### [Sobre Mim](about.qmd)
-Conheça mais sobre minha formação, experiência e interesses.
+::: {.g-col-4 .feature-card}
+### Análise de Dados
+Desenvolvimento de análises estatísticas e visualizações de dados com foco em aplicações florestais.
 :::
 
-::: {.g-col-4}
-### [Projetos](projects.qmd)
-Explore meus projetos em R, incluindo aplicações Shiny e análises de dados.
+::: {.g-col-4 .feature-card}
+### Aplicações Shiny
+Criação de aplicativos web interativos para análise e visualização de dados florestais.
+:::
+
+::: {.g-col-4 .feature-card}
+### Pesquisa Acadêmica
+Estudos sobre riscos financeiros associados ao cultivo de mogno africano e análises estatísticas avançadas.
 :::
 
 ::::
+:::
 
 :::
 
 This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

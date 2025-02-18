@@ -4,56 +4,95 @@ title: "Projetos"
 
 ::: {.column-page}
 
-# Meus Projetos
+# Aplicações Shiny
 
 ::: {.project-grid .grid}
 
 ::: {.g-col-4 .project-card}
 ::: {.tag-list}
-![python](images/python-icon.png){.tag-icon} 
-<span class="tag">python</span>
-<span class="tag">loops</span>
-<span class="tag">for</span>
-<span class="tag">while</span>
+![R](images/r-icon.png){.tag-icon} 
+<span class="tag">R</span>
+<span class="tag">Shiny</span>
+<span class="tag">Análise Financeira</span>
 :::
 
-## Loops e Iterações em Python
-
-::: {.difficulty-badge}
-INICIANTE <span class="time-estimate">15 min</span>
-:::
+## Deflator de Séries Históricas
 
 ::: {.project-description}
-Aprenda a usar estruturas de repetição para automatizar tarefas repetitivas
+Aplicativo web para deflação de séries temporais de preços. Permite upload de arquivos Excel, seleção do índice de deflação e visualização gráfica dos resultados.
+:::
+
+::: {.features-list}
+- Upload de planilhas Excel
+- Seleção flexível do índice
+- Gráficos comparativos
+- Download dos resultados
 :::
 
 ::: {.button-container}
-[COMEÇAR MÓDULO →](projects/loops-python.qmd){.btn .btn-primary}
+[Ver Demo →](https://seu-usuario.shinyapps.io/deflator){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/deflator){.btn .btn-secondary}
 :::
 :::
 
 ::: {.g-col-4 .project-card}
 ::: {.tag-list}
-![python](images/python-icon.png){.tag-icon}
-<span class="tag">python</span>
-<span class="tag">operadores</span>
-<span class="tag">fundamentos</span>
+![R](images/r-icon.png){.tag-icon}
+<span class="tag">R</span>
+<span class="tag">Shiny</span>
+<span class="tag">Florestal</span>
 :::
 
-## Operadores em Python
-
-::: {.difficulty-badge}
-INICIANTE <span class="time-estimate">20 min</span>
-:::
+## Ajuste de Modelos Hipsométricos
 
 ::: {.project-description}
-Aprenda sobre os diferentes tipos de operadores em Python e como utilizá-los
+Ferramenta para análise e seleção de modelos hipsométricos em dados florestais. Realiza ajustes múltiplos e comparação estatística entre modelos.
+:::
+
+::: {.features-list}
+- Múltiplos modelos pré-definidos
+- Análise estatística completa
+- Visualização dos ajustes
+- Ranking de modelos
 :::
 
 ::: {.button-container}
-[COMEÇAR MÓDULO →](projects/operadores-python.qmd){.btn .btn-primary}
+[Ver Demo →](https://seu-usuario.shinyapps.io/hipsometria){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/hipsometria){.btn .btn-secondary}
+:::
+:::
+
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![R](images/r-icon.png){.tag-icon}
+<span class="tag">R</span>
+<span class="tag">Shiny</span>
+<span class="tag">Algoritmos</span>
+:::
+
+## Calculadora de Menor Caminho
+
+::: {.project-description}
+Implementação interativa do algoritmo Floyd-Warshall para encontrar o menor caminho entre vértices em um grafo.
+:::
+
+::: {.features-list}
+- Interface para matriz de adjacência
+- Visualização do grafo
+- Cálculo de distâncias
+- Caminho mínimo entre vértices
+:::
+
+::: {.button-container}
+[Ver Demo →](https://seu-usuario.shinyapps.io/floyd-warshall){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/floyd-warshall){.btn .btn-secondary}
 :::
 :::
 
 :::
+
+## Mais Projetos em Breve!
+
+Estou sempre desenvolvendo novos projetos e ferramentas. Fique de olho nas atualizações!
+
 :::

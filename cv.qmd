@@ -1,0 +1,140 @@
+---
+title: "Currículo"
+---
+
+::: {.column-page}
+
+::: {.cv-header}
+# Lara Reis Gualberto
+
+::: {.contact-info}
+📧 [email@email.com](mailto:email@email.com) · 
+[![GitHub](images/github-icon.png){.social-icon}](https://github.com/seu-usuario) · 
+[![LinkedIn](images/linkedin-icon.png){.social-icon}](https://linkedin.com/in/seu-usuario)
+:::
+
+::: {.cv-download}
+[Download CV (PDF) ↓](cv.pdf){.btn .btn-primary}
+:::
+:::
+
+::: {.cv-section}
+## Formação Acadêmica
+
+::: {.timeline}
+### Mestrado em Ciências Florestais
+Em andamento  
+Universidade Federal de Lavras  
+*Foco: Análise de riscos financeiros em plantios de mogno africano*
+
+### Graduação em Estatística
+Em andamento  
+Universidade Federal de Lavras
+
+### Graduação em Engenharia Florestal
+Concluído  
+Universidade Federal de Lavras
+:::
+
+### Iniciações Científicas
+
+::: {.experience-item}
+**PIBIC-CNPq (2018-2020)** - Laboratório de Ecologia Florestal
+- Projeto: Colisão de aves em vidros de prédios da UFLA
+- Projeto: Checklist dos gêneros de Scaritinae em ambientes cavernícolas
+
+**BIC-Jr (2015-2017)** - Departamento de Medicina Veterinária
+- Participação em laboratórios de pesquisa
+- Apresentação de três resumos no Congresso de IC da UFLA
+:::
+:::
+
+::: {.cv-section}
+## Experiência Profissional
+
+::: {.experience-item}
+### KP Consultoria Ltda
+**Estagiária de Análise de Dados** (2022 - Atual)
+- Análise estatística de experimentos
+- Compilação e organização de dados
+- Elaboração de relatórios científicos
+
+### Floresta Júnior Consultoria Florestal
+**Gerente de Gestão de Pessoas** (2021-2022)
+- Gestão de equipes e processos seletivos
+- Acompanhamento de membros e realização de auditorias
+
+**Gerente de Marketing** (2020)
+- Gestão de mídias sociais
+- Criação de conteúdo
+
+### UFLA
+**Monitoria em Estatística Experimental** (2021-2022)
+- Auxílio no ensino da disciplina
+- Desenvolvimento de material didático
+:::
+:::
+
+::: {.cv-section}
+## Habilidades
+
+::: {.skills-grid}
+::: {.skills-category}
+### Programação
+- R/RStudio
+- Python
+- PowerBI
+- Excel Avançado
+:::
+
+::: {.skills-category}
+### Estatística
+- SigmaPlot
+- Sisvar
+- Minitab
+- Assistat
+:::
+
+::: {.skills-category}
+### Design & GIS
+- CorelDraw
+- Illustrator
+- Photoshop
+- QGIS
+:::
+
+::: {.skills-category}
+### Soft Skills
+- Proatividade
+- Trabalho em Equipe
+- Liderança
+- CNH B
+:::
+:::
+:::
+
+::: {.cv-section}
+## Cursos e Certificações
+
+::: {.courses-grid}
+### Gestão
+- Gestão de pessoas (SEBRAE)
+- Liderança na gestão de equipes
+- Recrutamento e seleção
+- Motivação nas organizações (FGV)
+
+### Técnicos
+- Informática Profissional
+- Inglês Avançado
+- Google Earth Engine
+- QGIS
+
+### Área Florestal
+- GPS em campo
+- Manejo Integrado de Pragas
+- Recomendação de Adubação
+- Colheita Florestal
+:::
+:::
+
+:::

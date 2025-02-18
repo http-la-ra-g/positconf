@@ -4,62 +4,146 @@
     "href": "projects.html",
     "title": "Projetos",
     "section": "",
-    "text": "python loops for while\n\n\n\n\nINICIANTE 15 min\n\n\nAprenda a usar estruturas de repetição para automatizar tarefas repetitivas\n\n\nCOMEÇAR MÓDULO →\n\n\n\n\n\n python operadores fundamentos\n\n\n\n\nINICIANTE 20 min\n\n\nAprenda sobre os diferentes tipos de operadores em Python e como utilizá-los\n\n\nCOMEÇAR MÓDULO →"
+    "text": "R Shiny Análise Financeira\n\n\n\n\nAplicativo web para deflação de séries temporais de preços. Permite upload de arquivos Excel, seleção do índice de deflação e visualização gráfica dos resultados.\n\n\n\nUpload de planilhas Excel\nSeleção flexível do índice\nGráficos comparativos\nDownload dos resultados\n\n\n\nVer Demo → Código →\n\n\n\n\n\n R Shiny Florestal\n\n\n\n\nFerramenta para análise e seleção de modelos hipsométricos em dados florestais. Realiza ajustes múltiplos e comparação estatística entre modelos.\n\n\n\nMúltiplos modelos pré-definidos\nAnálise estatística completa\nVisualização dos ajustes\nRanking de modelos\n\n\n\nVer Demo → Código →\n\n\n\n\n\n R Shiny Algoritmos\n\n\n\n\nImplementação interativa do algoritmo Floyd-Warshall para encontrar o menor caminho entre vértices em um grafo.\n\n\n\nInterface para matriz de adjacência\nVisualização do grafo\nCálculo de distâncias\nCaminho mínimo entre vértices\n\n\n\nVer Demo → Código →\n\n\n\n\n\n\nEstou sempre desenvolvendo novos projetos e ferramentas. Fique de olho nas atualizações!"
   },
   {
     "objectID": "projects.html#loops-e-iterações-em-python",
     "href": "projects.html#loops-e-iterações-em-python",
     "title": "Projetos",
     "section": "",
-    "text": "INICIANTE 15 min\n\n\nAprenda a usar estruturas de repetição para automatizar tarefas repetitivas\n\n\nCOMEÇAR MÓDULO →"
+    "text": "INICIANTE 15 min\n\n\nAprenda a usar estruturas de repetição para automatizar tarefas repetitivas\n\n\nAcessar projeto →"
   },
   {
     "objectID": "projects.html#operadores-em-python",
     "href": "projects.html#operadores-em-python",
     "title": "Projetos",
     "section": "",
-    "text": "INICIANTE 20 min\n\n\nAprenda sobre os diferentes tipos de operadores em Python e como utilizá-los\n\n\nCOMEÇAR MÓDULO →"
+    "text": "INICIANTE 20 min\n\n\nAprenda sobre os diferentes tipos de operadores em Python e como utilizá-los\n\n\nAcessar projeto →"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Sobre Mim",
     "section": "",
-    "text": "[Coloque aqui uma breve introdução sobre você]\n\n\n\n\n[Liste sua formação]\n\n\n\n\n\n[Liste suas experiências]\n\n\n\n\n\nGitHub\nLinkedIn\nTwitter\n\n\n\n\n✉️ seu_email@dominio.com"
+    "text": "Sou uma Engenheira Florestal apaixonada por dados e tecnologia, atualmente expandindo meus horizontes na interseção entre ciências florestais e estatística.\n\n\n\n\n\n\nMinha jornada começou na Engenharia Florestal, onde descobri minha paixão por análise de dados aplicada ao setor florestal. Atualmente, estou cursando mestrado em Ciências Florestais, com foco em análise de riscos financeiros associados ao cultivo de mogno africano, além de estar em processo de graduação em Estatística.\nEsta combinação única de formações me permite desenvolver uma perspectiva diferenciada na análise de dados florestais, unindo o conhecimento técnico do setor com metodologias estatísticas robustas.\n\n\n\n\n🌳 Manejo Florestal\n📊 Análise de Dados\n💹 Análise de Riscos Financeiros\n🔬 Pesquisa Acadêmica\n📱 Desenvolvimento de Aplicações Shiny\n\n\n\n\n\n\n\n\n\nEm andamento\nFoco: Análise de riscos financeiros em plantios de mogno africano\n\n\n\nEm andamento\nAprofundamento em métodos estatísticos e análise de dados\n\n\n\nConcluído\nBase sólida em ciências florestais e manejo sustentável\n\n\n\n\n\n\n\nR/RStudio\nShiny\nPython\nGit\nAnálise Estatística\nVisualização de Dados\nInventário Florestal\nModelagem Matemática"
   },
   {
     "objectID": "about.html#formação-acadêmica",
     "href": "about.html#formação-acadêmica",
     "title": "Sobre Mim",
     "section": "",
-    "text": "[Liste sua formação]"
+    "text": "Em andamento\nFoco: Análise de riscos financeiros em plantios de mogno africano\n\n\n\nEm andamento\nAprofundamento em métodos estatísticos e análise de dados\n\n\n\nConcluído\nBase sólida em ciências florestais e manejo sustentável"
   },
   {
     "objectID": "about.html#experiência-profissional",
     "href": "about.html#experiência-profissional",
     "title": "Sobre Mim",
-    "section": "",
-    "text": "[Liste suas experiências]"
+    "section": "Experiência Profissional",
+    "text": "Experiência Profissional\n\n[Liste suas experiências]"
   },
   {
     "objectID": "about.html#redes-sociais",
     "href": "about.html#redes-sociais",
     "title": "Sobre Mim",
-    "section": "",
-    "text": "GitHub\nLinkedIn\nTwitter"
+    "section": "Redes Sociais",
+    "text": "Redes Sociais\n\nGitHub\nLinkedIn\nTwitter"
   },
   {
     "objectID": "about.html#contato",
     "href": "about.html#contato",
     "title": "Sobre Mim",
-    "section": "",
-    "text": "✉️ seu_email@dominio.com"
+    "section": "Contato",
+    "text": "Contato\n✉️ seu_email@dominio.com"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Bem-vindo ao meu site",
+    "title": "Lara Gualberto",
     "section": "",
-    "text": "Bem-vindo!\n\nOlá! Seja bem-vindo ao meu portfólio de análise de dados e projetos em R. Aqui você encontrará diversos projetos desenvolvidos com Shiny, análises estatísticas e visualizações de dados.\n\n\n\nSobre Mim\nConheça mais sobre minha formação, experiência e interesses.\n\n\nProjetos\nExplore meus projetos em R, incluindo aplicações Shiny e análises de dados.\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Lara Gualberto\n\nEngenheira Florestal, Mestranda em Ciências Florestais e graduanda em Estatística. Apaixonada por análise de dados e desenvolvimento de soluções em R e Python para o setor florestal.\n\n\nVer Projetos Sobre Mim Currículo\n\n\n\n\n\nAnálise de Dados\nDesenvolvimento de análises estatísticas e visualizações de dados com foco em aplicações florestais.\n\n\nAplicações Shiny\nCriação de aplicativos web interativos para análise e visualização de dados florestais.\n\n\nPesquisa Acadêmica\nEstudos sobre riscos financeiros associados ao cultivo de mogno africano e análises estatísticas avançadas.\n\n\n\n\nThis is a Quarto website."
+  },
+  {
+    "objectID": "about.html#minha-trajetória",
+    "href": "about.html#minha-trajetória",
+    "title": "Sobre Mim",
+    "section": "",
+    "text": "Minha jornada começou na Engenharia Florestal, onde descobri minha paixão por análise de dados aplicada ao setor florestal. Atualmente, estou cursando mestrado em Ciências Florestais, com foco em análise de riscos financeiros associados ao cultivo de mogno africano, além de estar em processo de graduação em Estatística.\nEsta combinação única de formações me permite desenvolver uma perspectiva diferenciada na análise de dados florestais, unindo o conhecimento técnico do setor com metodologias estatísticas robustas."
+  },
+  {
+    "objectID": "about.html#áreas-de-interesse",
+    "href": "about.html#áreas-de-interesse",
+    "title": "Sobre Mim",
+    "section": "",
+    "text": "🌳 Manejo Florestal\n📊 Análise de Dados\n💹 Análise de Riscos Financeiros\n🔬 Pesquisa Acadêmica\n📱 Desenvolvimento de Aplicações Shiny"
+  },
+  {
+    "objectID": "about.html#habilidades-técnicas",
+    "href": "about.html#habilidades-técnicas",
+    "title": "Sobre Mim",
+    "section": "",
+    "text": "R/RStudio\nShiny\nPython\nGit\nAnálise Estatística\nVisualização de Dados\nInventário Florestal\nModelagem Matemática"
+  },
+  {
+    "objectID": "projects.html#deflator-de-séries-históricas",
+    "href": "projects.html#deflator-de-séries-históricas",
+    "title": "Projetos",
+    "section": "",
+    "text": "Aplicativo web para deflação de séries temporais de preços. Permite upload de arquivos Excel, seleção do índice de deflação e visualização gráfica dos resultados.\n\n\n\nUpload de planilhas Excel\nSeleção flexível do índice\nGráficos comparativos\nDownload dos resultados\n\n\n\nVer Demo → Código →"
+  },
+  {
+    "objectID": "projects.html#ajuste-de-modelos-hipsométricos",
+    "href": "projects.html#ajuste-de-modelos-hipsométricos",
+    "title": "Projetos",
+    "section": "",
+    "text": "Ferramenta para análise e seleção de modelos hipsométricos em dados florestais. Realiza ajustes múltiplos e comparação estatística entre modelos.\n\n\n\nMúltiplos modelos pré-definidos\nAnálise estatística completa\nVisualização dos ajustes\nRanking de modelos\n\n\n\nVer Demo → Código →"
+  },
+  {
+    "objectID": "projects.html#calculadora-de-menor-caminho",
+    "href": "projects.html#calculadora-de-menor-caminho",
+    "title": "Projetos",
+    "section": "",
+    "text": "Implementação interativa do algoritmo Floyd-Warshall para encontrar o menor caminho entre vértices em um grafo.\n\n\n\nInterface para matriz de adjacência\nVisualização do grafo\nCálculo de distâncias\nCaminho mínimo entre vértices\n\n\n\nVer Demo → Código →"
+  },
+  {
+    "objectID": "projects.html#mais-projetos-em-breve",
+    "href": "projects.html#mais-projetos-em-breve",
+    "title": "Projetos",
+    "section": "",
+    "text": "Estou sempre desenvolvendo novos projetos e ferramentas. Fique de olho nas atualizações!"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Currículo",
+    "section": "",
+    "text": "📧 email@email.com ·  · \n\n\nDownload CV (PDF) ↓\n\n\n\n\n\n\n\nEm andamento\nUniversidade Federal de Lavras\nFoco: Análise de riscos financeiros em plantios de mogno africano\n\n\n\nEm andamento\nUniversidade Federal de Lavras\n\n\n\nConcluído\nUniversidade Federal de Lavras\n\n\n\n\n\nPIBIC-CNPq (2018-2020) - Laboratório de Ecologia Florestal - Projeto: Colisão de aves em vidros de prédios da UFLA - Projeto: Checklist dos gêneros de Scaritinae em ambientes cavernícolas\nBIC-Jr (2015-2017) - Departamento de Medicina Veterinária - Participação em laboratórios de pesquisa - Apresentação de três resumos no Congresso de IC da UFLA\n\n\n\n\n\n\n\n\nEstagiária de Análise de Dados (2022 - Atual) - Análise estatística de experimentos - Compilação e organização de dados - Elaboração de relatórios científicos\n\n\n\nGerente de Gestão de Pessoas (2021-2022) - Gestão de equipes e processos seletivos - Acompanhamento de membros e realização de auditorias\nGerente de Marketing (2020) - Gestão de mídias sociais - Criação de conteúdo\n\n\n\nMonitoria em Estatística Experimental (2021-2022) - Auxílio no ensino da disciplina - Desenvolvimento de material didático\n\n\n\n\n\n\n\n\n\nR/RStudio\nPython\nPowerBI\nExcel Avançado\n\n\n\n\n\nSigmaPlot\nSisvar\nMinitab\nAssistat\n\n\n\n\n\nCorelDraw\nIllustrator\nPhotoshop\nQGIS\n\n\n\n\n\nProatividade\nTrabalho em Equipe\nLiderança\nCNH B\n\n\n\n\n\n\n\n\n\n\nGestão de pessoas (SEBRAE)\nLiderança na gestão de equipes\nRecrutamento e seleção\nMotivação nas organizações (FGV)\n\n\n\n\n\nInformática Profissional\nInglês Avançado\nGoogle Earth Engine\nQGIS\n\n\n\n\n\nGPS em campo\nManejo Integrado de Pragas\nRecomendação de Adubação\nColheita Florestal"
+  },
+  {
+    "objectID": "cv.html#formação-acadêmica",
+    "href": "cv.html#formação-acadêmica",
+    "title": "Currículo",
+    "section": "",
+    "text": "Em andamento\nUniversidade Federal de Lavras\nFoco: Análise de riscos financeiros em plantios de mogno africano\n\n\n\nEm andamento\nUniversidade Federal de Lavras\n\n\n\nConcluído\nUniversidade Federal de Lavras\n\n\n\n\n\nPIBIC-CNPq (2018-2020) - Laboratório de Ecologia Florestal - Projeto: Colisão de aves em vidros de prédios da UFLA - Projeto: Checklist dos gêneros de Scaritinae em ambientes cavernícolas\nBIC-Jr (2015-2017) - Departamento de Medicina Veterinária - Participação em laboratórios de pesquisa - Apresentação de três resumos no Congresso de IC da UFLA"
+  },
+  {
+    "objectID": "cv.html#experiência-profissional",
+    "href": "cv.html#experiência-profissional",
+    "title": "Currículo",
+    "section": "",
+    "text": "Estagiária de Análise de Dados (2022 - Atual) - Análise estatística de experimentos - Compilação e organização de dados - Elaboração de relatórios científicos\n\n\n\nGerente de Gestão de Pessoas (2021-2022) - Gestão de equipes e processos seletivos - Acompanhamento de membros e realização de auditorias\nGerente de Marketing (2020) - Gestão de mídias sociais - Criação de conteúdo\n\n\n\nMonitoria em Estatística Experimental (2021-2022) - Auxílio no ensino da disciplina - Desenvolvimento de material didático"
+  },
+  {
+    "objectID": "cv.html#habilidades",
+    "href": "cv.html#habilidades",
+    "title": "Currículo",
+    "section": "",
+    "text": "R/RStudio\nPython\nPowerBI\nExcel Avançado\n\n\n\n\n\nSigmaPlot\nSisvar\nMinitab\nAssistat\n\n\n\n\n\nCorelDraw\nIllustrator\nPhotoshop\nQGIS\n\n\n\n\n\nProatividade\nTrabalho em Equipe\nLiderança\nCNH B"
+  },
+  {
+    "objectID": "cv.html#cursos-e-certificações",
+    "href": "cv.html#cursos-e-certificações",
+    "title": "Currículo",
+    "section": "",
+    "text": "Gestão de pessoas (SEBRAE)\nLiderança na gestão de equipes\nRecrutamento e seleção\nMotivação nas organizações (FGV)\n\n\n\n\n\nInformática Profissional\nInglês Avançado\nGoogle Earth Engine\nQGIS\n\n\n\n\n\nGPS em campo\nManejo Integrado de Pragas\nRecomendação de Adubação\nColheita Florestal"
   }
 ]
