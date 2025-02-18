@@ -3,20 +3,31 @@ project:
   output-dir: docs
 
 website:
-  title: "Seu Nome"
+  title: " "
   navbar:
-    background: primary
-    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: Sobre
-      - href: projects.qmd
-        text: Projetos
+      - text: Home
+        href: index.qmd
+      - text: Projetos
+        href: projects.qmd
+      - text: Sobre
+        href: about.qmd
+      - text: Currículo
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/seu-usuario
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/seu-usuario
+        aria-label: LinkedIn
+      - icon: envelope-fill
+        href: mailto:seu-email@email.com
+        aria-label: Email
+      - text: Lattes
+        href: http://lattes.cnpq.br/seu-lattes
 
 page-footer:
-  background: light
   left: "© 2024 Seu Nome. Todos os direitos reservados."
   right:
     - icon: github
@@ -27,12 +38,11 @@ page-footer:
 format:
   html:
     theme:
-      light: [flatly, custom.scss]
-      dark: [darkly, custom.scss]
+      - cosmo
+      - custom.scss
     css: styles.css
-    toc: true
-    code-copy: true
-    code-tools: true
+    toc: false
+    page-layout: full
 
 
 

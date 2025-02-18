@@ -1,9 +1,9 @@
 ---
-title: "Lara Gualberto"
+title: " "
 page-layout: full
 ---
 
-::: {.column-page}
+::: {.column-page .home-page}
 
 ::: {.hero-section}
 # Lara Gualberto {.hero-title}
@@ -13,33 +13,10 @@ Engenheira Florestal, Mestranda em Ciências Florestais e graduanda em Estatíst
 :::
 
 ::: {.hero-buttons}
-[Ver Projetos](projects.qmd){.btn .btn-primary}
-[Sobre Mim](about.qmd){.btn .btn-secondary}
-[Currículo](cv.qmd){.btn .btn-secondary}
+[👋 Sobre Mim](about.qmd){.btn .btn-secondary}
+[👩‍💻 Ver Projetos](projects.qmd){.btn .btn-primary}
+[📄 Currículo](cv.qmd){.btn .btn-secondary}
 :::
 :::
 
-::: {.content-section}
-:::: {.grid}
-
-::: {.g-col-4 .feature-card}
-### Análise de Dados
-Desenvolvimento de análises estatísticas e visualizações de dados com foco em aplicações florestais.
 :::
-
-::: {.g-col-4 .feature-card}
-### Aplicações Shiny
-Criação de aplicativos web interativos para análise e visualização de dados florestais.
-:::
-
-::: {.g-col-4 .feature-card}
-### Pesquisa Acadêmica
-Estudos sobre riscos financeiros associados ao cultivo de mogno africano e análises estatísticas avançadas.
-:::
-
-::::
-:::
-
-:::
-
-This is a Quarto website.

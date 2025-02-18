@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Lara Gualberto",
     "section": "",
-    "text": "Lara Gualberto\n\nEngenheira Florestal, Mestranda em Ciências Florestais e graduanda em Estatística. Apaixonada por análise de dados e desenvolvimento de soluções em R e Python para o setor florestal.\n\n\nVer Projetos Sobre Mim Currículo\n\n\n\n\n\nAnálise de Dados\nDesenvolvimento de análises estatísticas e visualizações de dados com foco em aplicações florestais.\n\n\nAplicações Shiny\nCriação de aplicativos web interativos para análise e visualização de dados florestais.\n\n\nPesquisa Acadêmica\nEstudos sobre riscos financeiros associados ao cultivo de mogno africano e análises estatísticas avançadas.\n\n\n\n\nThis is a Quarto website."
+    "text": "Engenheira Florestal, Mestranda em Ciências Florestais e graduanda em Estatística. Apaixonada por análise de dados e desenvolvimento de soluções em R e Python para o setor florestal.\n\n\n👋 Sobre Mim 👩‍💻 Ver Projetos 📄 Currículo"
   },
   {
     "objectID": "about.html#minha-trajetória",
@@ -145,5 +145,215 @@
     "title": "Currículo",
     "section": "",
     "text": "Gestão de pessoas (SEBRAE)\nLiderança na gestão de equipes\nRecrutamento e seleção\nMotivação nas organizações (FGV)\n\n\n\n\n\nInformática Profissional\nInglês Avançado\nGoogle Earth Engine\nQGIS\n\n\n\n\n\nGPS em campo\nManejo Integrado de Pragas\nRecomendação de Adubação\nColheita Florestal"
+  },
+  {
+    "objectID": "instructions/04-cv.html",
+    "href": "instructions/04-cv.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "instructions/04-cv.html#estrutura-principal",
+    "href": "instructions/04-cv.html#estrutura-principal",
+    "title": "",
+    "section": "Estrutura Principal",
+    "text": "Estrutura Principal\n\nInformações Pessoais\n\nNome: Lara Reis Gualberto\nContato profissional\nLinks para redes sociais\n\n\n\nFormação Acadêmica\n\nMestrado em Ciências Florestais (em andamento)\n\nFoco em análise de riscos financeiros em plantios de mogno africano\n\nGraduação em Estatística (em andamento)\nGraduação em Engenharia Florestal - UFLA\n\nIniciações Científicas:\n\nBIC-Jr (2015-2017) - Departamento de Medicina Veterinária\nPIBIC-CNPq (2018-2020) - Laboratório de Ecologia Florestal\n\nProjetos sobre colisão de aves e checklist de Scaritinae\n\n\n\n\n\n\nExperiência Profissional\n\nAtual\n\nEstagiária de Análise de Dados - KP Consultoria Ltda\n\nAnálise estatística de experimentos\nCompilação e organização de dados\nElaboração de relatórios científicos\n\n\n\n\nExperiências Anteriores\n\nFloresta Júnior Consultoria Florestal\n\nGerente de Gestão de Pessoas (2021-2022)\nGerente de Marketing (2020)\n\nMonitoria em Estatística Experimental - UFLA (2021-2022)\nAssociação Atlética Acadêmica das Engenharias Xarada\n\nAssessora de Eventos\nAssessora de Marketing\n\n\n\n\n\nHabilidades Técnicas\n\nProgramação e Análise de Dados\n\nR/RStudio\nPython\nPowerBI\nPacote Office avançado\n\n\n\nSoftwares Estatísticos\n\nSigmaPlot\nSisvar\nMinitab\nAssistat\n\n\n\nDesign e Geoprocessamento\n\nCorelDraw\nIllustrator\nPhotoshop\nQGIS\nGoogle Earth Engine\n\n\n\nIdiomas\n\nInglês Avançado\n\n\n\n\nCursos e Certificações\n\nCursos técnicos em informática e inglês\nCertificações em gestão de pessoas e liderança\nCursos específicos da área florestal\n\nGPS em campo\nManejo Integrado de Pragas\nRecomendação de Adubação\nColheita Florestal\nQGIS\n\n\n\n\nSoft Skills\n\nProatividade\nTrabalho em equipe\nResponsabilidade\nEmpatia\nPaciência\nCNH categoria B"
+  },
+  {
+    "objectID": "instructions/04-cv.html#elementos-de-design",
+    "href": "instructions/04-cv.html#elementos-de-design",
+    "title": "",
+    "section": "Elementos de Design",
+    "text": "Elementos de Design\n\nLayout limpo e profissional\nSeções bem definidas com ícones\nTimeline para experiências\nGrid para habilidades técnicas\nBotão de download do CV em PDF"
+  },
+  {
+    "objectID": "instructions/04-cv.html#funcionalidades",
+    "href": "instructions/04-cv.html#funcionalidades",
+    "title": "",
+    "section": "Funcionalidades",
+    "text": "Funcionalidades\n\nVersão web responsiva\nVersão PDF baixável\nLinks para portfólio de projetos\nIntegração com LinkedIn"
+  },
+  {
+    "objectID": "instructions/02-projects.html",
+    "href": "instructions/02-projects.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "instructions/02-projects.html#projetos-shiny-principais",
+    "href": "instructions/02-projects.html#projetos-shiny-principais",
+    "title": "",
+    "section": "Projetos Shiny Principais",
+    "text": "Projetos Shiny Principais\n\n1. Deflator de Séries Históricas\n\nDescrição: Aplicativo para deflação de séries temporais de preços\nFuncionalidades:\n\nUpload de arquivo Excel\nSeleção do índice de deflação\nCálculo automático da série deflacionada\nVisualização gráfica da série original vs deflacionada\n\nTecnologias: R, Shiny, tidyverse, readxl\n\n\n\n2. Ajuste Múltiplo de Modelos Hipsométricos\n\nDescrição: Ferramenta para análise e seleção de modelos hipsométricos\nFuncionalidades:\n\nInput de dados de parcelas florestais\nSeleção de modelos para teste\nAnálise estatística comparativa\nRanking dos modelos por critérios de ajuste\nVisualização gráfica dos ajustes\n\nTecnologias: R, Shiny, estatística florestal\n\n\n\n3. Calculadora de Menor Caminho em Grafos\n\nDescrição: Implementação do algoritmo Floyd-Warshall\nFuncionalidades:\n\nInput da matriz de adjacência\nCálculo do menor caminho\nVisualização do grafo\nExibição da matriz de distâncias\n\nTecnologias: R, Shiny, igraph"
+  },
+  {
+    "objectID": "instructions/02-projects.html#layout-dos-cards",
+    "href": "instructions/02-projects.html#layout-dos-cards",
+    "title": "",
+    "section": "Layout dos Cards",
+    "text": "Layout dos Cards\n\nImagem representativa do projeto\nTítulo e descrição\nTags: R, Shiny, Estatística, Florestal\nLink para app ao vivo\nLink para código fonte no GitHub"
+  },
+  {
+    "objectID": "instructions/02-projects.html#organização",
+    "href": "instructions/02-projects.html#organização",
+    "title": "",
+    "section": "Organização",
+    "text": "Organização\n\nCategorias:\n\nAnálise de Dados\nEstatística Florestal\nAlgoritmos\n\nFiltros por tecnologia\nOrdenação por complexidade"
+  },
+  {
+    "objectID": "instructions/02-projects.html#elementos-visuais",
+    "href": "instructions/02-projects.html#elementos-visuais",
+    "title": "",
+    "section": "Elementos Visuais",
+    "text": "Elementos Visuais\n\nScreenshots dos apps\nGráficos de exemplo\nDiagramas explicativos\nÍcones das tecnologias"
+  },
+  {
+    "objectID": "instructions/02-projects.html#tecnologias",
+    "href": "instructions/02-projects.html#tecnologias",
+    "title": "",
+    "section": "Tecnologias",
+    "text": "Tecnologias\n\nQuarto\nBootstrap Grid\nIntegração shinyapps.io\nGitHub para código fonte"
+  },
+  {
+    "objectID": "instructions/00-geral.html",
+    "href": "instructions/00-geral.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "instructions/00-geral.html#estrutura-do-site",
+    "href": "instructions/00-geral.html#estrutura-do-site",
+    "title": "",
+    "section": "Estrutura do Site",
+    "text": "Estrutura do Site\n\nHome (index.qmd)\nProjetos (projects.qmd)\nSobre Mim (about.qmd)\nCurrículo (cv.qmd)"
+  },
+  {
+    "objectID": "instructions/00-geral.html#elementos-comuns",
+    "href": "instructions/00-geral.html#elementos-comuns",
+    "title": "",
+    "section": "Elementos Comuns",
+    "text": "Elementos Comuns\n\nHeader\n\nLogo/Nome\nMenu de navegação\nLinks para redes sociais:\n\nGitHub\nLinkedIn\nEmail\nCurrículo lattes\n\n\n\n\nFooter\n\nCréditos “Criado com Quarto”\nLinks para redes sociais\nCopyright"
+  },
+  {
+    "objectID": "instructions/00-geral.html#estilo-global",
+    "href": "instructions/00-geral.html#estilo-global",
+    "title": "",
+    "section": "Estilo Global",
+    "text": "Estilo Global\n\nPaleta de cores consistente\nTipografia moderna e legível\nLayout responsivo\nAnimações sutis\nDesign clean e profissional"
+  },
+  {
+    "objectID": "instructions/00-geral.html#tecnologias-base",
+    "href": "instructions/00-geral.html#tecnologias-base",
+    "title": "",
+    "section": "Tecnologias Base",
+    "text": "Tecnologias Base\n\nQuarto para geração do site\nBootstrap para responsividade\nSCSS/CSS personalizado\nJavaScript para interatividade (quando necessário)"
+  },
+  {
+    "objectID": "instructions/00-geral.html#próximos-passos",
+    "href": "instructions/00-geral.html#próximos-passos",
+    "title": "",
+    "section": "Próximos Passos",
+    "text": "Próximos Passos\n\nFinalizar estrutura base do Quarto\nImplementar design do header/footer\nDesenvolver cada página seguindo as instruções específicas\nAdicionar conteúdo e links dos projetos Shiny\nCriar versão PDF do currículo\nTestar responsividade\nOtimizar SEO\nDeploy"
+  },
+  {
+    "objectID": "instructions/01-home.html",
+    "href": "instructions/01-home.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "instructions/01-home.html#elementos-principais",
+    "href": "instructions/01-home.html#elementos-principais",
+    "title": "",
+    "section": "Elementos Principais",
+    "text": "Elementos Principais\n\nNome “Lara Gualberto” em destaque como título principal\nBreve descrição profissional\nLinks para as outras seções do site com ícones representativos"
+  },
+  {
+    "objectID": "instructions/01-home.html#layout",
+    "href": "instructions/01-home.html#layout",
+    "title": "",
+    "section": "Layout",
+    "text": "Layout\n\nDesign limpo e moderno\nHero section com foto profissional\nGrid de cards para navegação entre seções"
+  },
+  {
+    "objectID": "instructions/01-home.html#header",
+    "href": "instructions/01-home.html#header",
+    "title": "",
+    "section": "Header",
+    "text": "Header\nLinks com ícones: - 🏠 Home - 👩‍💻 Projetos - 👋 Sobre - 📄 Currículo - 📱 Redes Sociais: -  GitHub -  LinkedIn -  Email -  Currículo Lattes"
+  },
+  {
+    "objectID": "instructions/01-home.html#ícones-necessários",
+    "href": "instructions/01-home.html#ícones-necessários",
+    "title": "",
+    "section": "Ícones Necessários",
+    "text": "Ícones Necessários\nCriar/adicionar na pasta images: - github-icon.png - Ícone do GitHub em branco - linkedin-icon.png - Ícone do LinkedIn em branco - email-icon.png - Ícone de email em branco - lattes-icon.png - Ícone do Lattes em branco - home-icon.png - Ícone de casa - projects-icon.png - Ícone de projetos - about-icon.png - Ícone de perfil - cv-icon.png - Ícone de documento"
+  },
+  {
+    "objectID": "instructions/01-home.html#estilo-dos-ícones",
+    "href": "instructions/01-home.html#estilo-dos-ícones",
+    "title": "",
+    "section": "Estilo dos Ícones",
+    "text": "Estilo dos Ícones\n\nTamanho: 24x24px\nCor: branco para o header (com hover em #C1CAD6)\nFormato: PNG com fundo transparente\nEstilo: Consistente e minimalista"
+  },
+  {
+    "objectID": "instructions/01-home.html#footer",
+    "href": "instructions/01-home.html#footer",
+    "title": "",
+    "section": "Footer",
+    "text": "Footer\n\nCréditos “Feito com Quarto” com logo do Quarto\nLinks para redes sociais com os mesmos ícones do header\nCopyright com ano atual"
+  },
+  {
+    "objectID": "instructions/01-home.html#tecnologias",
+    "href": "instructions/01-home.html#tecnologias",
+    "title": "",
+    "section": "Tecnologias",
+    "text": "Tecnologias\n\nQuarto\nBootstrap para layout responsivo\nFontes personalizadas para destaque do nome\nCSS para animações nos ícones e hover effects"
+  },
+  {
+    "objectID": "instructions/03-about.html",
+    "href": "instructions/03-about.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "instructions/03-about.html#conteúdo-principal",
+    "href": "instructions/03-about.html#conteúdo-principal",
+    "title": "",
+    "section": "Conteúdo Principal",
+    "text": "Conteúdo Principal\n\nFormação acadêmica:\n\nEngenharia Florestal\nMestrado em curso (foco em riscos financeiros e mogno africano)\nGraduação em Estatística em andamento"
+  },
+  {
+    "objectID": "instructions/03-about.html#seções",
+    "href": "instructions/03-about.html#seções",
+    "title": "",
+    "section": "Seções",
+    "text": "Seções\n\nHistória profissional\nÁreas de interesse\nHabilidades técnicas\nProjetos destacados"
+  },
+  {
+    "objectID": "instructions/03-about.html#elementos-visuais",
+    "href": "instructions/03-about.html#elementos-visuais",
+    "title": "",
+    "section": "Elementos Visuais",
+    "text": "Elementos Visuais\n\nFoto profissional\nÍcones para representar habilidades\nTimeline de formação acadêmica\nGráficos/visualizações demonstrando áreas de expertise"
+  },
+  {
+    "objectID": "instructions/03-about.html#estilo",
+    "href": "instructions/03-about.html#estilo",
+    "title": "",
+    "section": "Estilo",
+    "text": "Estilo\n\nTom pessoal e profissional\nDestaque para a conexão entre Engenharia Florestal e Estatística\nÊnfase na pesquisa atual sobre mogno africano"
+  },
+  {
+    "objectID": "instructions/03-about.html#tecnologias",
+    "href": "instructions/03-about.html#tecnologias",
+    "title": "",
+    "section": "Tecnologias",
+    "text": "Tecnologias\n\nQuarto\nElementos interativos (se necessário)\nLayout responsivo"
   }
 ]

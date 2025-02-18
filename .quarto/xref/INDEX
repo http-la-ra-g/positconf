@@ -10,5 +10,20 @@
   },
   "cv.qmd": {
     "cv.html": "64250d2d"
+  },
+  "instructions/00-geral.md": {
+    "00-geral.html": "e44678e2"
+  },
+  "instructions/01-home.md": {
+    "01-home.html": "d53571b8"
+  },
+  "instructions/02-projects.md": {
+    "02-projects.html": "6e8e6103"
+  },
+  "instructions/03-about.md": {
+    "03-about.html": "59b78660"
+  },
+  "instructions/04-cv.md": {
+    "04-cv.html": "2c8cc45c"
   }
 }

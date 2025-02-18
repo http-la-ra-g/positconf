@@ -14,9 +14,10 @@
   - GitHub
   - LinkedIn
   - Email
+  - Currículo lattes
 
 ### Footer
-- Créditos "Feito com Quarto"
+- Créditos "Criado com Quarto"
 - Links para redes sociais
 - Copyright
 
