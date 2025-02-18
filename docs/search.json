@@ -2,9 +2,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projetos",
+    "title": " ",
     "section": "",
-    "text": "R Shiny Análise Financeira\n\n\n\n\nAplicativo web para deflação de séries temporais de preços. Permite upload de arquivos Excel, seleção do índice de deflação e visualização gráfica dos resultados.\n\n\n\nUpload de planilhas Excel\nSeleção flexível do índice\nGráficos comparativos\nDownload dos resultados\n\n\n\nVer Demo → Código →\n\n\n\n\n\n R Shiny Florestal\n\n\n\n\nFerramenta para análise e seleção de modelos hipsométricos em dados florestais. Realiza ajustes múltiplos e comparação estatística entre modelos.\n\n\n\nMúltiplos modelos pré-definidos\nAnálise estatística completa\nVisualização dos ajustes\nRanking de modelos\n\n\n\nVer Demo → Código →\n\n\n\n\n\n R Shiny Algoritmos\n\n\n\n\nImplementação interativa do algoritmo Floyd-Warshall para encontrar o menor caminho entre vértices em um grafo.\n\n\n\nInterface para matriz de adjacência\nVisualização do grafo\nCálculo de distâncias\nCaminho mínimo entre vértices\n\n\n\nVer Demo → Código →\n\n\n\n\n\n\nEstou sempre desenvolvendo novos projetos e ferramentas. Fique de olho nas atualizações!"
+    "text": "R Shiny Análise Financeira\n\n\n\n\nAplicativo web para deflação de séries temporais de preços. Permite upload de arquivos Excel, seleção do índice de deflação e visualização gráfica dos resultados.\n\n\n\nUpload de planilhas Excel\nSeleção flexível do índice\nGráficos comparativos\nDownload dos resultados\n\n\n\nVer Demo → Código →\n\n\n\n\n\n R Shiny Florestal\n\n\n\n\nFerramenta para análise e seleção de modelos hipsométricos em dados florestais. Realiza ajustes múltiplos e comparação estatística entre modelos.\n\n\n\nMúltiplos modelos pré-definidos\nAnálise estatística completa\nVisualização dos ajustes\nRanking de modelos\n\n\n\nVer Demo → Código →\n\n\n\n\n\n R Shiny Algoritmos\n\n\n\n\nImplementação interativa do algoritmo Floyd-Warshall para encontrar o menor caminho entre vértices em um grafo.\n\n\n\nInterface para matriz de adjacência\nVisualização do grafo\nCálculo de distâncias\nCaminho mínimo entre vértices\n\n\n\nVer Demo → Código →\n\n\n\n\n\n Python Florestal Modelagem\n\n\n\n\nImplementação e comparação de diferentes modelos de afilamento para árvores. Inclui funções de ajuste, validação e visualização dos perfis.\n\n\n\nMúltiplos modelos implementados\nAnálise estatística\nVisualização dos perfis\nEstimativas de volume\n\n\n\nVer Demo → Código →\n\n\n\n\n\n Python Otimização Algoritmos\n\n\n\n\nImplementação de algoritmo genético para otimização de problemas florestais, como seleção de árvores e planejamento de colheita.\n\n\n\nCodificação flexível\nOperadores customizáveis\nVisualização da evolução\nMúltiplos objetivos\n\n\n\nVer Demo → Código →\n\n\n\n\n\n R Ecologia Análise\n\n\n\n\nPacote R para análise fitossociológica de comunidades florestais, incluindo cálculos de índices de diversidade e estrutura.\n\n\n\nÍndices de diversidade\nEstrutura horizontal/vertical\nGráficos informativos\nExportação de resultados\n\n\n\nVer Demo → Código →\n\n\n\n\n\n Python Otimização Algoritmos\n\n\n\n\nImplementação de algoritmos gulosos para problemas de otimização florestal, como seleção de áreas para conservação.\n\n\n\nMúltiplas heurísticas\nComparação de soluções\nVisualização de resultados\nAnálise de performance\n\n\n\nVer Demo → Código →\n\n\n\n\n\n Python Otimização Linear\n\n\n\n\nImplementação do método Simplex para otimização linear, com aplicações em problemas de manejo florestal.\n\n\n\nInterface intuitiva\nPasso a passo detalhado\nAnálise de sensibilidade\nMúltiplos exemplos\n\n\n\nVer Demo → Código →\n\n\n\n\n\n Python Otimização Algoritmos\n\n\n\n\nImplementação do algoritmo Simulated Annealing para otimização de problemas florestais complexos e não-lineares.\n\n\n\nParâmetros ajustáveis\nVisualização do processo\nComparação com outros métodos\nExemplos práticos\n\n\n\nVer Demo → Código →"
   },
   {
     "objectID": "projects.html#loops-e-iterações-em-python",
@@ -23,14 +23,14 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Sobre Mim",
+    "title": "Olá, eu sou a Lara! 👋",
     "section": "",
     "text": "Sou uma Engenheira Florestal apaixonada por dados e tecnologia, atualmente expandindo meus horizontes na interseção entre ciências florestais e estatística.\n\n\n\n\n\n\nMinha jornada começou na Engenharia Florestal, onde descobri minha paixão por análise de dados aplicada ao setor florestal. Atualmente, estou cursando mestrado em Ciências Florestais, com foco em análise de riscos financeiros associados ao cultivo de mogno africano, além de estar em processo de graduação em Estatística.\nEsta combinação única de formações me permite desenvolver uma perspectiva diferenciada na análise de dados florestais, unindo o conhecimento técnico do setor com metodologias estatísticas robustas.\n\n\n\n\n🌳 Manejo Florestal\n📊 Análise de Dados\n💹 Análise de Riscos Financeiros\n🔬 Pesquisa Acadêmica\n📱 Desenvolvimento de Aplicações Shiny\n\n\n\n\n\n\n\n\nEm andamento\nFoco: Análise de riscos financeiros em plantios de mogno africano\n\n\n\nEm andamento\nAprofundamento em métodos estatísticos e análise de dados\n\n\n\nConcluído\nBase sólida em ciências florestais e manejo sustentável"
   },
   {
     "objectID": "about.html#formação-acadêmica",
     "href": "about.html#formação-acadêmica",
-    "title": "Sobre Mim",
+    "title": "Olá, eu sou a Lara! 👋",
     "section": "",
     "text": "Em andamento\nFoco: Análise de riscos financeiros em plantios de mogno africano\n\n\n\nEm andamento\nAprofundamento em métodos estatísticos e análise de dados\n\n\n\nConcluído\nBase sólida em ciências florestais e manejo sustentável"
   },
@@ -65,14 +65,14 @@
   {
     "objectID": "about.html#minha-trajetória",
     "href": "about.html#minha-trajetória",
-    "title": "Sobre Mim",
+    "title": "Olá, eu sou a Lara! 👋",
     "section": "",
     "text": "Minha jornada começou na Engenharia Florestal, onde descobri minha paixão por análise de dados aplicada ao setor florestal. Atualmente, estou cursando mestrado em Ciências Florestais, com foco em análise de riscos financeiros associados ao cultivo de mogno africano, além de estar em processo de graduação em Estatística.\nEsta combinação única de formações me permite desenvolver uma perspectiva diferenciada na análise de dados florestais, unindo o conhecimento técnico do setor com metodologias estatísticas robustas."
   },
   {
     "objectID": "about.html#áreas-de-interesse",
     "href": "about.html#áreas-de-interesse",
-    "title": "Sobre Mim",
+    "title": "Olá, eu sou a Lara! 👋",
     "section": "",
     "text": "🌳 Manejo Florestal\n📊 Análise de Dados\n💹 Análise de Riscos Financeiros\n🔬 Pesquisa Acadêmica\n📱 Desenvolvimento de Aplicações Shiny"
   },
@@ -86,21 +86,21 @@
   {
     "objectID": "projects.html#deflator-de-séries-históricas",
     "href": "projects.html#deflator-de-séries-históricas",
-    "title": "Projetos",
+    "title": " ",
     "section": "",
     "text": "Aplicativo web para deflação de séries temporais de preços. Permite upload de arquivos Excel, seleção do índice de deflação e visualização gráfica dos resultados.\n\n\n\nUpload de planilhas Excel\nSeleção flexível do índice\nGráficos comparativos\nDownload dos resultados\n\n\n\nVer Demo → Código →"
   },
   {
     "objectID": "projects.html#ajuste-de-modelos-hipsométricos",
     "href": "projects.html#ajuste-de-modelos-hipsométricos",
-    "title": "Projetos",
+    "title": " ",
     "section": "",
     "text": "Ferramenta para análise e seleção de modelos hipsométricos em dados florestais. Realiza ajustes múltiplos e comparação estatística entre modelos.\n\n\n\nMúltiplos modelos pré-definidos\nAnálise estatística completa\nVisualização dos ajustes\nRanking de modelos\n\n\n\nVer Demo → Código →"
   },
   {
     "objectID": "projects.html#calculadora-de-menor-caminho",
     "href": "projects.html#calculadora-de-menor-caminho",
-    "title": "Projetos",
+    "title": " ",
     "section": "",
     "text": "Implementação interativa do algoritmo Floyd-Warshall para encontrar o menor caminho entre vértices em um grafo.\n\n\n\nInterface para matriz de adjacência\nVisualização do grafo\nCálculo de distâncias\nCaminho mínimo entre vértices\n\n\n\nVer Demo → Código →"
   },
@@ -355,5 +355,47 @@
     "title": "",
     "section": "Tecnologias",
     "text": "Tecnologias\n\nQuarto\nElementos interativos (se necessário)\nLayout responsivo"
+  },
+  {
+    "objectID": "projects.html#modelos-de-afilamento",
+    "href": "projects.html#modelos-de-afilamento",
+    "title": " ",
+    "section": "",
+    "text": "Implementação e comparação de diferentes modelos de afilamento para árvores. Inclui funções de ajuste, validação e visualização dos perfis.\n\n\n\nMúltiplos modelos implementados\nAnálise estatística\nVisualização dos perfis\nEstimativas de volume\n\n\n\nVer Demo → Código →"
+  },
+  {
+    "objectID": "projects.html#algoritmo-genético",
+    "href": "projects.html#algoritmo-genético",
+    "title": " ",
+    "section": "",
+    "text": "Implementação de algoritmo genético para otimização de problemas florestais, como seleção de árvores e planejamento de colheita.\n\n\n\nCodificação flexível\nOperadores customizáveis\nVisualização da evolução\nMúltiplos objetivos\n\n\n\nVer Demo → Código →"
+  },
+  {
+    "objectID": "projects.html#análise-fitossociológica",
+    "href": "projects.html#análise-fitossociológica",
+    "title": " ",
+    "section": "",
+    "text": "Pacote R para análise fitossociológica de comunidades florestais, incluindo cálculos de índices de diversidade e estrutura.\n\n\n\nÍndices de diversidade\nEstrutura horizontal/vertical\nGráficos informativos\nExportação de resultados\n\n\n\nVer Demo → Código →"
+  },
+  {
+    "objectID": "projects.html#algoritmo-greedy",
+    "href": "projects.html#algoritmo-greedy",
+    "title": " ",
+    "section": "",
+    "text": "Implementação de algoritmos gulosos para problemas de otimização florestal, como seleção de áreas para conservação.\n\n\n\nMúltiplas heurísticas\nComparação de soluções\nVisualização de resultados\nAnálise de performance\n\n\n\nVer Demo → Código →"
+  },
+  {
+    "objectID": "projects.html#método-simplex",
+    "href": "projects.html#método-simplex",
+    "title": " ",
+    "section": "",
+    "text": "Implementação do método Simplex para otimização linear, com aplicações em problemas de manejo florestal.\n\n\n\nInterface intuitiva\nPasso a passo detalhado\nAnálise de sensibilidade\nMúltiplos exemplos\n\n\n\nVer Demo → Código →"
+  },
+  {
+    "objectID": "projects.html#simulated-annealing",
+    "href": "projects.html#simulated-annealing",
+    "title": " ",
+    "section": "",
+    "text": "Implementação do algoritmo Simulated Annealing para otimização de problemas florestais complexos e não-lineares.\n\n\n\nParâmetros ajustáveis\nVisualização do processo\nComparação com outros métodos\nExemplos práticos\n\n\n\nVer Demo → Código →"
   }
 ]

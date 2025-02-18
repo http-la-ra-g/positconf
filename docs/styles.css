@@ -95,7 +95,7 @@ a:hover {
 
 /* Footer */
 .footer {
-  background-color: transparent;
+  background-color: #0A0F0D;
   color: #FFFFFF;
 }
 
@@ -479,6 +479,7 @@ a:hover {
 
 /* Home Page */
 .home-page {
+  min-height: 100vh;
   margin: 0;
   padding: 0;
   background: transparent;

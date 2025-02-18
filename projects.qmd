@@ -1,10 +1,9 @@
 ---
-title: "Projetos"
+title: " "
 ---
 
 ::: {.column-page}
 
-# Aplicações Shiny
 
 ::: {.project-grid .grid}
 
@@ -89,10 +88,168 @@ Implementação interativa do algoritmo Floyd-Warshall para encontrar o menor ca
 :::
 :::
 
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![Python](images/python-icon.png){.tag-icon}
+<span class="tag">Python</span>
+<span class="tag">Florestal</span>
+<span class="tag">Modelagem</span>
 :::
 
-## Mais Projetos em Breve!
+## Modelos de Afilamento
 
-Estou sempre desenvolvendo novos projetos e ferramentas. Fique de olho nas atualizações!
+::: {.project-description}
+Implementação e comparação de diferentes modelos de afilamento para árvores. Inclui funções de ajuste, validação e visualização dos perfis.
+:::
+
+::: {.features-list}
+- Múltiplos modelos implementados
+- Análise estatística
+- Visualização dos perfis
+- Estimativas de volume
+:::
+
+::: {.button-container}
+[Ver Demo →](https://github.com/seu-usuario/taper-models){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/taper-models){.btn .btn-secondary}
+:::
+:::
+
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![Python](images/python-icon.png){.tag-icon}
+<span class="tag">Python</span>
+<span class="tag">Otimização</span>
+<span class="tag">Algoritmos</span>
+:::
+
+## Algoritmo Genético
+
+::: {.project-description}
+Implementação de algoritmo genético para otimização de problemas florestais, como seleção de árvores e planejamento de colheita.
+:::
+
+::: {.features-list}
+- Codificação flexível
+- Operadores customizáveis
+- Visualização da evolução
+- Múltiplos objetivos
+:::
+
+::: {.button-container}
+[Ver Demo →](https://github.com/seu-usuario/genetic-algorithm){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/genetic-algorithm){.btn .btn-secondary}
+:::
+:::
+
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![R](images/r-icon.png){.tag-icon}
+<span class="tag">R</span>
+<span class="tag">Ecologia</span>
+<span class="tag">Análise</span>
+:::
+
+## Análise Fitossociológica
+
+::: {.project-description}
+Pacote R para análise fitossociológica de comunidades florestais, incluindo cálculos de índices de diversidade e estrutura.
+:::
+
+::: {.features-list}
+- Índices de diversidade
+- Estrutura horizontal/vertical
+- Gráficos informativos
+- Exportação de resultados
+:::
+
+::: {.button-container}
+[Ver Demo →](https://github.com/seu-usuario/phytosociology){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/phytosociology){.btn .btn-secondary}
+:::
+:::
+
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![Python](images/python-icon.png){.tag-icon}
+<span class="tag">Python</span>
+<span class="tag">Otimização</span>
+<span class="tag">Algoritmos</span>
+:::
+
+## Algoritmo Greedy
+
+::: {.project-description}
+Implementação de algoritmos gulosos para problemas de otimização florestal, como seleção de áreas para conservação.
+:::
+
+::: {.features-list}
+- Múltiplas heurísticas
+- Comparação de soluções
+- Visualização de resultados
+- Análise de performance
+:::
+
+::: {.button-container}
+[Ver Demo →](https://github.com/seu-usuario/greedy-algorithm){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/greedy-algorithm){.btn .btn-secondary}
+:::
+:::
+
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![Python](images/python-icon.png){.tag-icon}
+<span class="tag">Python</span>
+<span class="tag">Otimização</span>
+<span class="tag">Linear</span>
+:::
+
+## Método Simplex
+
+::: {.project-description}
+Implementação do método Simplex para otimização linear, com aplicações em problemas de manejo florestal.
+:::
+
+::: {.features-list}
+- Interface intuitiva
+- Passo a passo detalhado
+- Análise de sensibilidade
+- Múltiplos exemplos
+:::
+
+::: {.button-container}
+[Ver Demo →](https://github.com/seu-usuario/simplex-method){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/simplex-method){.btn .btn-secondary}
+:::
+:::
+
+::: {.g-col-4 .project-card}
+::: {.tag-list}
+![Python](images/python-icon.png){.tag-icon}
+<span class="tag">Python</span>
+<span class="tag">Otimização</span>
+<span class="tag">Algoritmos</span>
+:::
+
+## Simulated Annealing
+
+::: {.project-description}
+Implementação do algoritmo Simulated Annealing para otimização de problemas florestais complexos e não-lineares.
+:::
+
+::: {.features-list}
+- Parâmetros ajustáveis
+- Visualização do processo
+- Comparação com outros métodos
+- Exemplos práticos
+:::
+
+::: {.button-container}
+[Ver Demo →](https://github.com/seu-usuario/simulated-annealing){.btn .btn-primary}
+[Código →](https://github.com/seu-usuario/simulated-annealing){.btn .btn-secondary}
+:::
+:::
+
+:::
 
 :::
