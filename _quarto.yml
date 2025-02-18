@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  search: false
   title: " "
   navbar:
     left:

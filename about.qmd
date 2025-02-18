@@ -1,5 +1,5 @@
 ---
-title: "Sobre Mim"
+title: " "
 ---
 
 ::: {.column-page}
@@ -46,32 +46,3 @@ Aprofundamento em métodos estatísticos e análise de dados
 Concluído  
 Base sólida em ciências florestais e manejo sustentável
 :::
-
-## Habilidades Técnicas
-
-::: {.skills-grid}
-- R/RStudio
-- Shiny
-- Python
-- Git
-- Análise Estatística
-- Visualização de Dados
-- Inventário Florestal
-- Modelagem Matemática
-:::
-:::
-
-:::
-
-:::
-
-## Experiência Profissional
-- [Liste suas experiências]
-
-## Redes Sociais
-- [GitHub](seu_link_github)
-- [LinkedIn](seu_link_linkedin)
-- [Twitter](seu_link_twitter)
-
-## Contato
-✉️ [seu_email@dominio.com](mailto:seu_email@dominio.com)

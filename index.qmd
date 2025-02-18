@@ -6,9 +6,12 @@ page-layout: full
 ::: {.column-page .home-page}
 
 ::: {.hero-section}
-# Lara Gualberto {.hero-title}
+::: {.hero-content}
+::: {.hero-title}
+Lara Gualberto
+:::
 
-::: {.lead}
+::: {.hero-text}
 Engenheira Florestal, Mestranda em Ciências Florestais e graduanda em Estatística. Apaixonada por análise de dados e desenvolvimento de soluções em R e Python para o setor florestal.
 :::
 
@@ -16,6 +19,7 @@ Engenheira Florestal, Mestranda em Ciências Florestais e graduanda em Estatíst
 [👋 Sobre Mim](about.qmd){.btn .btn-secondary}
 [👩‍💻 Ver Projetos](projects.qmd){.btn .btn-primary}
 [📄 Currículo](cv.qmd){.btn .btn-secondary}
+:::
 :::
 :::
 
